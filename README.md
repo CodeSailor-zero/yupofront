@@ -226,8 +226,9 @@ git clone https://github.com/CodeSailor-zero/yupoBackend.git
 > 找到 UserCenterApplication.java 启动类，启动后端
 
 ### 后端注意点
-> 记得切换自己的 ip + port <br>
-> 记得配置自己的mysql账号和密码，还有redis的账号和密码
+- 记得切换自己的 ip + port <br>
+![注意点](https://github-program-show.oss-cn-shanghai.aliyuncs.com/%E6%B3%A8%E6%84%8F%E7%82%B9.png?Expires=1746944089&OSSAccessKeyId=TMP.3Kq2WriM7iSyJPpneKWLSWqKwNDur2K9AAtxNdVJwFZfYJVG7mnMcZvPd2C7SGWPHFibsYju3mYbk1rML3BTFd6u7LczcH&Signature=e%2BiPAi%2FiqCNxvRzCtsr21Le6U94%3D "Magic Gardens")
+- 记得配置自己的mysql账号和密码，还有redis的账号和密码
 ```yaml
   #数据库mysql的配置
   datasource:
